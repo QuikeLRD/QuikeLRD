@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Luis Enrique Lerdo Crisóstomo  
+# 👋 Hi, I’m Quike
 
 🎓 Final-year **Mechatronics Engineering student at UPIITA-IPN**  
 ⚡ Passionate about **embedded systems, PCB design, and automation**  

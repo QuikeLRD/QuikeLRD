@@ -19,15 +19,6 @@
 - 🔌 [**Transistor Analyzer with LabVIEW & NI DAQ**](https://quikelrd.github.io/projects) – Virtual instrumentation system for BJT/MOSFET characterization  
 - 🚗 [**FPGA-Based Automotive Simulation**](https://quikelrd.github.io/projects) – Real-time digital simulation system using sensors + VHDL  
 - ⚡ [**PCB Design for Robotics Applications**](https://quikelrd.github.io/projects) – Custom boards for automation & minisumo robots  
-- ☀️ [**Autonomous Solar Panel Cleaning System (VDI 2206)**](https://quikelrd.github.io/projects) – Automated system for renewable energy efficiency  
-
----
-
-## 🛠️ Tech Stack
-**Languages:** C, C++, C#, Python (OOP), VHDL, LabVIEW, MATLAB  
-**Electronics & Tools:** PCB Design (Altium, EAGLE, Proteus), Digital Logic, Analog Design, Embedded Systems  
-**Software:** Quartus, Multisim, Arduino IDE, Excel, SolidWorks  
-**Lab:** Oscilloscopes, Multimeters, Function Generators, Soldering (Through-hole & SMD)  
 
 ---
 

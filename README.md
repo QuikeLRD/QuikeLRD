@@ -11,7 +11,6 @@
 - **PCB Design:** Experience with **Proteus, EAGLE, and Altium**; from prototyping to SMD soldering  
 - **Digital Design:** FPGA development in **VHDL/Quartus** for real-time automotive simulations  
 - **Data Acquisition & Automation:** Projects with **LabVIEW, MATLAB, and sensor integration**  
-- **Robotics:** Competed in minisumo and line follower categories, achieving **3 medals in national tournaments**  
 
 ---
 ## 🏆 Featured Projects

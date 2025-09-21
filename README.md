@@ -3,7 +3,6 @@
 🎓 Final-year **Mechatronics Engineering student at UPIITA-IPN**  
 ⚡ Passionate about **embedded systems, PCB design, and automation**  
 🔬 Exploring **semiconductor design, FPGA (VHDL), and computational engineering**  
-🤖 Active member of the **Robotics Association of UPIITA (AR-UPIITA)**  
 
 ---
 

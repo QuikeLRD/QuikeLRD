@@ -14,21 +14,10 @@
 - **Robotics:** Competed in minisumo and line follower categories, achieving **3 medals in national tournaments**  
 
 ---
-<!-- Banner (you can design one in Canva or Figma with your name + tagline) -->
-![Header](https://i.ibb.co/1nkKkkQ/github-banner.png)
 ## 🏆 Featured Projects
 - 🔌 [**Transistor Analyzer with LabVIEW & NI DAQ**](https://quikelrd.github.io/projects) – Virtual instrumentation system for BJT/MOSFET characterization  
 - 🚗 [**FPGA-Based Automotive Simulation**](https://quikelrd.github.io/projects) – Real-time digital simulation system using sensors + VHDL  
 - ⚡ [**PCB Design for Robotics Applications**](https://quikelrd.github.io/projects) – Custom boards for automation & minisumo robots  
-
----
-
-## 🌍 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/enrique-lerdo)  
-- 🌐 [Portfolio](https://quikelrd.github.io/projects)  
-- 📧 luis.e.lerdo@gmail.com  
-
----
 
 ## 🛠️ Tech Stack
 

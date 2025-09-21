@@ -1,4 +1,4 @@
-## Hola, debo personalizar esto jeje 👋
+## Hi I am Quike 👋
 
 <!--
 **QuikeLRD/QuikeLRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

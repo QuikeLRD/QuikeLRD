@@ -14,7 +14,8 @@
 - **Robotics:** Competed in minisumo and line follower categories, achieving **3 medals in national tournaments**  
 
 ---
-
+<!-- Banner (you can design one in Canva or Figma with your name + tagline) -->
+![Header](https://i.ibb.co/1nkKkkQ/github-banner.png)
 ## 🏆 Featured Projects
 - 🔌 [**Transistor Analyzer with LabVIEW & NI DAQ**](https://quikelrd.github.io/projects) – Virtual instrumentation system for BJT/MOSFET characterization  
 - 🚗 [**FPGA-Based Automotive Simulation**](https://quikelrd.github.io/projects) – Real-time digital simulation system using sensors + VHDL  
